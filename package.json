@@ -1,0 +1,25 @@
+{
+	"name": "devcamp",
+	"version": "1.0.0",
+	"description": "api",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js",
+		"server": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SamuelEMason/devcamp.git"
+	},
+	"author": "Samuel Mason",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/SamuelEMason/devcamp/issues"
+	},
+	"homepage": "https://github.com/SamuelEMason/devcamp#readme",
+	"devDependencies": {
+		"express": "^4.18.2",
+		"nodemon": "^2.0.22"
+	}
+}
