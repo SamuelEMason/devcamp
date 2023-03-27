@@ -62,6 +62,7 @@ const BoocampSchema = mongoose.Schema({
 			'Mobile Development',
 			'UI/UX',
 			'Data Science',
+			'Data Engineering',
 			'Business',
 			'Other',
 		],
